@@ -1,0 +1,13 @@
+# Geheimnisse und Zugangsdaten
+credentials.py
+
+# Virtuelle Umgebung (optional)
+.venv/
+
+# Bytecode- und Cache-Dateien
+__pycache__/
+*.pyc
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
